@@ -1,5 +1,4 @@
-// create web server
-
+// Create web server
 // node.js modules
 var http = require('http');
 var url = require('url');

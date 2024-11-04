@@ -1,5 +1,4 @@
 // create web server
-// create a web server that will respond to the comments, and save the comments to the file
 
 // node.js modules
 var http = require('http');
